@@ -11,4 +11,4 @@ The analyses shown in the dashboard says the current churn rate is 26.86%. The r
 * While California has the highest customer service calls, it also has the highest churn rate. This suggests that there should be improvement in the customer service.
 
 ## SQL-Application
-This repo contains how I used SQL and designed data warehouse scheme to assist documenting a report
+This demonstrates how I used SQL and design data warehouse scheme to assist documenting a report
